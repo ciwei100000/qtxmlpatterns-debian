@@ -5,6 +5,7 @@ qtxmlpatterns-opensource-src (5.12.2-1) UNRELEASED; urgency=medium
   * Bump Qt build-dependencies to 5.12.2.
   * Build-depend on qtdeclarative5-private-dev and qml-module-qtquick2,
     needed for xmllistmodel module and its tests.
+  * Add qml-module-qtquick-xmllistmodel package, moved from qtdeclarative.
 
  -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Thu, 21 Mar 2019 16:09:06 +0300
 
