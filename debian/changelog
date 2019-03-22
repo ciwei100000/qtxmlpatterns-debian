@@ -7,6 +7,7 @@ qtxmlpatterns-opensource-src (5.12.2-1) UNRELEASED; urgency=medium
     needed for xmllistmodel module and its tests.
   * Add qml-module-qtquick-xmllistmodel package, moved from qtdeclarative.
   * Add Qt_5.12 version tag to debian/libqt5xmlpatterns5.symbols.
+  * Update Homepage URL.
 
  -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Thu, 21 Mar 2019 16:09:06 +0300
 
