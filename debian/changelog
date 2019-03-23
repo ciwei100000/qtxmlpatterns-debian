@@ -1,6 +1,5 @@
-qtxmlpatterns-opensource-src (5.12.2-1) UNRELEASED; urgency=medium
+qtxmlpatterns-opensource-src (5.12.2-1) experimental; urgency=medium
 
-  [ Dmitry Shachnev ]
   * New upstream release.
   * Bump Qt build-dependencies to 5.12.2.
   * Build-depend on qtdeclarative5-private-dev and qml-module-qtquick2,
@@ -9,7 +8,7 @@ qtxmlpatterns-opensource-src (5.12.2-1) UNRELEASED; urgency=medium
   * Add Qt_5.12 version tag to debian/libqt5xmlpatterns5.symbols.
   * Update Homepage URL.
 
- -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Thu, 21 Mar 2019 16:09:06 +0300
+ -- Dmitry Shachnev <mitya57@debian.org>  Sat, 23 Mar 2019 14:34:14 +0300
 
 qtxmlpatterns-opensource-src (5.11.3-2) unstable; urgency=medium
 
