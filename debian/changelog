@@ -1,4 +1,4 @@
-qtxmlpatterns-opensource-src (5.12.3-1) UNRELEASED; urgency=medium
+qtxmlpatterns-opensource-src (5.12.3-1) experimental; urgency=medium
 
   [ Scarlett Moore ]
   * Update packaging to use doc-base as per policy 9.10.
@@ -9,7 +9,7 @@ qtxmlpatterns-opensource-src (5.12.3-1) UNRELEASED; urgency=medium
   * Add Build-Depends-Package field to debian/libqt5xmlpatterns5.symbols.
   * Use debian/not-installed file instead of an override target.
 
- -- Scarlett Moore <sgmoore@kde.org>  Sat, 13 Apr 2019 07:50:52 -0700
+ -- Dmitry Shachnev <mitya57@debian.org>  Thu, 16 May 2019 17:21:13 +0300
 
 qtxmlpatterns-opensource-src (5.12.2-1) experimental; urgency=medium
 
