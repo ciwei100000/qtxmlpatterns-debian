@@ -7,6 +7,7 @@ qtxmlpatterns-opensource-src (5.12.3-1) UNRELEASED; urgency=medium
   * New upstream release.
   * Bump Qt build-dependencies to 5.12.3.
   * Add Build-Depends-Package field to debian/libqt5xmlpatterns5.symbols.
+  * Use debian/not-installed file instead of an override target.
 
  -- Scarlett Moore <sgmoore@kde.org>  Sat, 13 Apr 2019 07:50:52 -0700
 
