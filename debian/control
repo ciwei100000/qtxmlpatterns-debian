@@ -36,8 +36,8 @@ Section: libdevel
 Architecture: any
 Multi-Arch: same
 Depends: libqt5xmlpatterns5 (= ${binary:Version}), qtbase5-dev, ${misc:Depends}
-Breaks: qtxmlpatterns5-doc-html (<< 5.12.4-1~)
-Replaces: qtxmlpatterns5-doc-html (<< 5.12.4-1~)
+Breaks: qtxmlpatterns5-doc-html (<< 5.12.4-2~)
+Replaces: qtxmlpatterns5-doc-html (<< 5.12.4-2~)
 Description: Qt 5 XML patterns development files
  Qt is a cross-platform C++ application framework. Qt's primary feature
  is its rich set of widgets that provide standard GUI functionality.
@@ -72,8 +72,8 @@ Architecture: any
 Multi-Arch: same
 Section: x11
 Depends: ${misc:Depends}, ${shlibs:Depends}
-Breaks: qtxmlpatterns5-doc-html (<< 5.12.4-1~)
-Replaces: qtxmlpatterns5-doc-html (<< 5.12.4-1~)
+Breaks: qtxmlpatterns5-doc-html (<< 5.12.4-2~)
+Replaces: qtxmlpatterns5-doc-html (<< 5.12.4-2~)
 Description: Qt 5 XML patterns examples
  Qt is a cross-platform C++ application framework. Qt's primary feature
  is its rich set of widgets that provide standard GUI functionality.
