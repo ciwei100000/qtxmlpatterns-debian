@@ -4,6 +4,7 @@ qtxmlpatterns-opensource-src (5.12.5-1) UNRELEASED; urgency=medium
   * New upstream release.
   * Bump Qt build-dependencies to 5.12.5.
   * Minor debian/copyright update.
+  * Run tests in Xvfb, needed for the new qquickxmllistmodel test.
 
  -- Scarlett Moore <sgmoore@kde.org>  Fri, 09 Aug 2019 10:36:34 -0700
 

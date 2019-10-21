@@ -13,7 +13,9 @@ Build-Depends: debhelper (>= 11),
                pkg-kde-tools,
                qml-module-qtquick2 (>= 5.12.5~),
                qtbase5-private-dev (>= 5.12.5+dfsg~),
-               qtdeclarative5-private-dev (>= 5.12.5~)
+               qtdeclarative5-private-dev (>= 5.12.5~),
+               xauth <!nocheck>,
+               xvfb <!nocheck>
 Build-Depends-Indep: qttools5-dev-tools (>= 5.12.5~) <!nodoc>
 Standards-Version: 4.3.0
 Homepage: https://doc.qt.io/qt-5/qtxmlpatterns-index.html
