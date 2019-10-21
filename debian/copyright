@@ -17,7 +17,7 @@ Copyright: 2007-2012 Fathi Boudra <fabo@debian.org>
            2018 Simon Quigley <tsimonq2@ubuntu.com>
 License: LGPL-3 or GPL-2+
 
-Files: tests/auto/* tools/*
+Files: tests/* tools/*
 Copyright: 2016 The Qt Company Ltd.
 License: GPL-3 with Qt-1.0 exception
 
