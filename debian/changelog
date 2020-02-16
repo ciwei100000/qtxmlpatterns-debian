@@ -1,3 +1,8 @@
+qtxmlpatterns-opensource-src (5.14.1-1) UNRELEASED; urgency=medium
+
+
+ -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sun, 16 Feb 2020 18:21:00 -0300
+
 qtxmlpatterns-opensource-src (5.12.5-1) unstable; urgency=medium
 
   * New upstream release.
