@@ -3,6 +3,7 @@ qtxmlpatterns-opensource-src (5.14.1-1) UNRELEASED; urgency=medium
   [ Lisandro Damián Nicanor Pérez Meyer ]
   * New upstream release.
     - Bump Qt build dependencies.
+  * Make libqt5xmlpatterns5-dev depend upon qtbase5-dev | qtbase5-gles-dev.
 
  -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sun, 16 Feb 2020 18:21:00 -0300
 
