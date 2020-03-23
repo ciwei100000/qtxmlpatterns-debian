@@ -1,3 +1,9 @@
+qtxmlpatterns-opensource-src (5.12.5-1build1) focal; urgency=medium
+
+  * No-change rebuild for libgcc-s1 package name change.
+
+ -- Matthias Klose <doko@ubuntu.com>  Mon, 23 Mar 2020 07:24:06 +0100
+
 qtxmlpatterns-opensource-src (5.12.5-1) unstable; urgency=medium
 
   * New upstream release.
