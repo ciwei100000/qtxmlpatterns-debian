@@ -1,4 +1,4 @@
-qtxmlpatterns-opensource-src (5.12.8-0ubuntu1) UNRELEASED; urgency=medium
+qtxmlpatterns-opensource-src (5.12.8-0ubuntu1) focal; urgency=medium
 
   * New upstream bugfix release.
   * Bump Qt build-dependencies to 5.12.8.
