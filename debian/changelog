@@ -1,7 +1,7 @@
-qtxmlpatterns-opensource-src (5.14.1-1) UNRELEASED; urgency=medium
+qtxmlpatterns-opensource-src (5.14.2-1) UNRELEASED; urgency=medium
 
   [ Lisandro Damián Nicanor Pérez Meyer ]
-  * New upstream release.
+  * New upstream release (closes: #959666).
     - Bump Qt build dependencies.
   * Make libqt5xmlpatterns5-dev depend upon qtbase5-dev | qtbase5-gles-dev.
 
