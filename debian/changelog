@@ -9,6 +9,7 @@ qtxmlpatterns-opensource-src (5.14.2-1) UNRELEASED; urgency=medium
   * Update to debhelper compat level 13.
     - Build-depend on debhelper-compat virtual package.
     - Remove dh_missing and dh_makeshlibs overrides, no longer needed.
+  * Remove build path from libQt5XmlPatterns.prl for reproducibility.
 
  -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sun, 16 Feb 2020 18:21:00 -0300
 
