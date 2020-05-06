@@ -5,6 +5,11 @@ qtxmlpatterns-opensource-src (5.14.2-1) UNRELEASED; urgency=medium
     - Bump Qt build dependencies.
   * Make libqt5xmlpatterns5-dev depend upon qtbase5-dev | qtbase5-gles-dev.
 
+  [ Dmitry Shachnev ]
+  * Update to debhelper compat level 13.
+    - Build-depend on debhelper-compat virtual package.
+    - Remove dh_missing and dh_makeshlibs overrides, no longer needed.
+
  -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sun, 16 Feb 2020 18:21:00 -0300
 
 qtxmlpatterns-opensource-src (5.12.5-1) unstable; urgency=medium
