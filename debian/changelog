@@ -6,6 +6,7 @@ qtxmlpatterns-opensource-src (5.15.1-1) UNRELEASED; urgency=medium
   * Use ${DEB_HOST_MULTIARCH} substitution in the install files.
   * Stop checking for nocheck build option, not needed with compat 13.
   * Minor debian/copyright updates.
+  * Update debian/libqt5xmlpatterns5.symbols from the current build log.
 
  -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Wed, 16 Sep 2020 21:12:43 +0300
 
