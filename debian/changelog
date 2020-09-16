@@ -1,6 +1,5 @@
-qtxmlpatterns-opensource-src (5.15.1-1) UNRELEASED; urgency=medium
+qtxmlpatterns-opensource-src (5.15.1-1) experimental; urgency=medium
 
-  [ Dmitry Shachnev ]
   * New upstream release.
   * Bump Qt build-dependencies to 5.15.1.
   * Use ${DEB_HOST_MULTIARCH} substitution in the install files.
@@ -8,7 +7,7 @@ qtxmlpatterns-opensource-src (5.15.1-1) UNRELEASED; urgency=medium
   * Minor debian/copyright updates.
   * Update debian/libqt5xmlpatterns5.symbols from the current build log.
 
- -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Wed, 16 Sep 2020 21:12:43 +0300
+ -- Dmitry Shachnev <mitya57@debian.org>  Wed, 16 Sep 2020 22:31:53 +0300
 
 qtxmlpatterns-opensource-src (5.14.2-2) unstable; urgency=medium
 
