@@ -1,4 +1,4 @@
-qtxmlpatterns-opensource-src (5.15.2-1) UNRELEASED; urgency=medium
+qtxmlpatterns-opensource-src (5.15.2-1) experimental; urgency=medium
 
   [ Debian Janitor ]
   * Apply multi-arch hints.
@@ -10,7 +10,7 @@ qtxmlpatterns-opensource-src (5.15.2-1) UNRELEASED; urgency=medium
   * Build-depend only on the needed documentation tools, not on the
     large qttools5-dev-tools package.
 
- -- Debian Janitor <janitor@jelmer.uk>  Thu, 05 Nov 2020 03:25:18 -0000
+ -- Dmitry Shachnev <mitya57@debian.org>  Sun, 22 Nov 2020 21:27:35 +0300
 
 qtxmlpatterns-opensource-src (5.15.1-2) unstable; urgency=medium
 
