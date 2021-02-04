@@ -1,4 +1,4 @@
-qtxmlpatterns-opensource-src (5.15.2-3) UNRELEASED; urgency=medium
+qtxmlpatterns-opensource-src (5.15.2-3) unstable; urgency=medium
 
   [ Helmut Grohne ]
   * Annotate Build-Depends: qml-module-qtquick2 <!nocheck>. (Closes: #981788)
@@ -6,7 +6,7 @@ qtxmlpatterns-opensource-src (5.15.2-3) UNRELEASED; urgency=medium
   [ Dmitry Shachnev ]
   * Update debian/watch: use format 4, and track only 5.15.x releases.
 
- -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Thu, 04 Feb 2021 20:37:43 +0300
+ -- Dmitry Shachnev <mitya57@debian.org>  Thu, 04 Feb 2021 20:45:21 +0300
 
 qtxmlpatterns-opensource-src (5.15.2-2) unstable; urgency=medium
 
