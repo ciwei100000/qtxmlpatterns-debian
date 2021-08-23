@@ -1,3 +1,51 @@
+qtxmlpatterns-opensource-src (5.15.2-3) unstable; urgency=medium
+
+  [ Helmut Grohne ]
+  * Annotate Build-Depends: qml-module-qtquick2 <!nocheck>. (Closes: #981788)
+
+  [ Dmitry Shachnev ]
+  * Update debian/watch: use format 4, and track only 5.15.x releases.
+
+ -- Dmitry Shachnev <mitya57@debian.org>  Thu, 04 Feb 2021 20:45:21 +0300
+
+qtxmlpatterns-opensource-src (5.15.2-2) unstable; urgency=medium
+
+  * Bump Standards-Version to 4.5.1, no changes needed.
+  * Upload to unstable.
+
+ -- Dmitry Shachnev <mitya57@debian.org>  Fri, 11 Dec 2020 11:32:46 +0300
+
+qtxmlpatterns-opensource-src (5.15.2-1) experimental; urgency=medium
+
+  [ Debian Janitor ]
+  * Apply multi-arch hints.
+    + qtxmlpatterns5-doc, qtxmlpatterns5-doc-html: Add Multi-Arch: foreign.
+
+  [ Dmitry Shachnev ]
+  * New upstream release.
+  * Bump Qt build-dependencies to 5.15.2.
+  * Build-depend only on the needed documentation tools, not on the
+    large qttools5-dev-tools package.
+
+ -- Dmitry Shachnev <mitya57@debian.org>  Sun, 22 Nov 2020 21:27:35 +0300
+
+qtxmlpatterns-opensource-src (5.15.1-2) unstable; urgency=medium
+
+  * Upload to unstable.
+
+ -- Dmitry Shachnev <mitya57@debian.org>  Wed, 28 Oct 2020 21:54:30 +0300
+
+qtxmlpatterns-opensource-src (5.15.1-1) experimental; urgency=medium
+
+  * New upstream release.
+  * Bump Qt build-dependencies to 5.15.1.
+  * Use ${DEB_HOST_MULTIARCH} substitution in the install files.
+  * Stop checking for nocheck build option, not needed with compat 13.
+  * Minor debian/copyright updates.
+  * Update debian/libqt5xmlpatterns5.symbols from the current build log.
+
+ -- Dmitry Shachnev <mitya57@debian.org>  Wed, 16 Sep 2020 22:31:53 +0300
+
 qtxmlpatterns-opensource-src (5.14.2-2-c1) unstable; urgency=medium
 
   * Removed the symbol files
