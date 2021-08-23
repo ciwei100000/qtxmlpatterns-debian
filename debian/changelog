@@ -1,3 +1,9 @@
+qtxmlpatterns-opensource-src (5.15.2-3c1) unstable; urgency=medium
+
+  * Merge tag 'debian/5.15.2-3' into ciwei100000
+
+ -- Xuqing Liu <ciwei100000@gmail.com>  Sat, 23 Aug 2021 08:45:38 -0700
+
 qtxmlpatterns-opensource-src (5.15.2-3) unstable; urgency=medium
 
   [ Helmut Grohne ]
